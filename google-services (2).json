@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "34296104717",
+    "project_id": "g-consultancy",
+    "storage_bucket": "g-consultancy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34296104717:android:2be48320b6843010809244",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi3spuiyl3K_ITnfM41StXQlMR9s9Snt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34296104717:android:b25881f5cc3a204e809244",
+        "android_client_info": {
+          "package_name": "com.praise.medicalconsultation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi3spuiyl3K_ITnfM41StXQlMR9s9Snt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34296104717:android:b9889d7d78601274809244",
+        "android_client_info": {
+          "package_name": "com.praise.medicalonlineconsultation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi3spuiyl3K_ITnfM41StXQlMR9s9Snt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
